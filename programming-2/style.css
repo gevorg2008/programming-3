@@ -1,0 +1,40 @@
+body {
+  background-color: rgb(0, 217, 255);
+}
+.buttons {
+  display: flex;
+  justify-content: center;
+}
+button {
+  padding: 20px;
+  height: 60px;
+  width: 150px;
+  margin: 20px;
+  border-radius: 20px;
+  border-style: none;
+  size: 10px;
+  color: white;
+}
+canvas {
+  margin-left: 500px;
+}
+#butn1{
+  border-radius: 100px;
+  background-color: green;
+}
+#butn2{
+  border-radius: 100px;
+  background-color: yellow;
+}
+#butn3{
+  border-radius: 100px;
+  background-color: red;
+}
+#butn4{
+  border-radius: 100px;
+  background-color: blue;
+}
+#butn5{
+  border-radius: 100px;
+  background-color: black;
+}
